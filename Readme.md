@@ -1,9 +1,3 @@
-# Github
+House Pricing
 
-Arquivo da aula de Github para iniciantes
-
-repositorio teste para aula de github
-
-obrigado galera, ate a proxima 
-
-meu cpf: 8849938220
+Predict house prices with machine learning techniques on Kaggle competition
